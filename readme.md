@@ -10,4 +10,5 @@ Just run the `install` script, if you wish to uninstall just run the `uninstall`
 ## Usage
 `dearem [animation]` Running this command without any parameters will show you the available flags
 
-## Pictures
+## Example
+[![example video](https://github.com/cucarrillo/dearEmily/img/example.gif)](https://github.com/cucarrillo/dearEmily/img/example.gif)
