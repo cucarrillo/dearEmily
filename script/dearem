@@ -1,0 +1,21 @@
+#!/bin/sh
+
+if [ "$1" = "" ]; then
+	echo "Usage: dearem [animation flag]"
+	echo "-e : emoticon"
+	echo "-r : rain"
+	echo "-s : snow"
+	echo ""
+fi
+
+if [ "$1" = "-e" ]; then
+	de_emoticon	
+fi
+
+if [ "$1" = "-r" ]; then
+	de_rain
+fi
+
+if [ "$1" = "-s" ]; then
+	de_snow
+fi

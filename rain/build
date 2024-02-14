@@ -1,0 +1,3 @@
+#!/bin/sh
+
+gcc main.c -lncurses -g -o de_rain
